@@ -1,0 +1,20 @@
+Middle Java Developer:
+
+- 2+ years of hands-on experience in various Java technologies and frameworks;
+- Java Core, Concurrency, Collections, Streams.
+- Deep understanding of OOP, GoF patterns, SOLID, KISS;
+- Experience with Unit and Integration testing.
+- Knowledge of Git and Linux.
+- Experience in Spring Framework, Spring (Core, Boot, MVC, Security, Data)
+- Experience with web technologies such as CSS, HTML, jQuery, etc.
+- Strong understanding of Microservices, API testing, working with Postman;
+- Experience with REST API and OpenAPI/Swagger.
+- Good knowledge of SQL and experience with RDBMS such as MySQL, PostgreSQL.
+- Experience with NoSQL databases (MongoDB, Elasticsearch, etc.).
+- Experience with containerized services using Docker.
+- Experience with security standards like JWT, OAuth, SSO, OIDC.
+
+- Experience with messaging brokers like Kafka or RabbitMQ.
+- Experience with Jenkins or alternative CI/CD solutions.
+- Experience with AWS cloud services such as EC2, S3, RDS, Lambda, etc.
+- Knowledge of UML, GraphQL / GraphQL Federation, Kubernetes, Helm, Camuda, gRPC.
